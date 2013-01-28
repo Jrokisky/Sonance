@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="jars/slick.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/lwjgl_util.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="music-dots/jars/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="jars/jl1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jsminim.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/minim.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/mp3spi1.9.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/tritonus_aos.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
